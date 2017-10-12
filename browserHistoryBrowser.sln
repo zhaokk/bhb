@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "browserHistoryBrowser", "browserHistoryBrowser\browserHistoryBrowser.csproj", "{B9994C37-1C79-4A72-BC74-0D2796585744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "UnitTestProject3\Tester.csproj", "{C15F1161-4148-43D5-8352-524444243679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject4", "UnitTestProject4\UnitTestProject4.csproj", "{FEF1A9C8-D2C2-4F49-A0BD-E7A95B6E7C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9994C37-1C79-4A72-BC74-0D2796585744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9994C37-1C79-4A72-BC74-0D2796585744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9994C37-1C79-4A72-BC74-0D2796585744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9994C37-1C79-4A72-BC74-0D2796585744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15F1161-4148-43D5-8352-524444243679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15F1161-4148-43D5-8352-524444243679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15F1161-4148-43D5-8352-524444243679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15F1161-4148-43D5-8352-524444243679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF1A9C8-D2C2-4F49-A0BD-E7A95B6E7C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF1A9C8-D2C2-4F49-A0BD-E7A95B6E7C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF1A9C8-D2C2-4F49-A0BD-E7A95B6E7C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF1A9C8-D2C2-4F49-A0BD-E7A95B6E7C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
